@@ -1,7 +1,11 @@
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-brightgreen?logo=github)](https://github.com/yourusername/rabbitmq-csharp-tutorial)
 
-### RabbitMQ C# Tutorial Repository
+### RabbitMQ C# Starter Repository
 
+<div style="align: center; justify-content: center; display: flex; flex-direction: column">
+  <img height="100px" src="https://icon.icepanel.io/Technology/svg/RabbitMQ.svg"/>
+</div>
+<br/>
 This repository is an implementation of the basic concepts of RabbitMQ messaging using C# and .NET. It follows the ["Hello World!"](https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html) tutorial available on the RabbitMQ website.
 
 **Features:**
