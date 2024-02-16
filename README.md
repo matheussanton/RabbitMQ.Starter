@@ -1,4 +1,4 @@
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-brightgreen?logo=github)](https://github.com/yourusername/rabbitmq-csharp-tutorial)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-brightgreen?logo=github)](https://github.com/matheussanton/RabbitMQ.Starter)
 
 ### RabbitMQ C# Starter Repository
 
